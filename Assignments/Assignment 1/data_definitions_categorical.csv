@@ -1,0 +1,15 @@
+Variable,Full Name,Levels,Variable.1,Full name,Levels.1
+GENDER,Gender,2,DVD,DVD,2
+EDU_FATHER,Father's education,12,FRESH,Fresh,2
+EDU_MOTHER,Mother's education,12,PHONE,Phone,2
+OCC_FATHER,Father's occupation,13,MOBILE,Mobile,2
+OCC_MOTHER,Mother's occupation,13,REVENUE,Revenue,3
+STRATUM,Stratum,7,JOB,Job,8
+SISBEN,Sisben,6,SCHOOL_NAME,School name,3735
+PEOPLE_HOUSE,People in the house,13,SCHOOL_NAT,Nature of School,2
+INTERNET,Internet,2,SCHOOL_TYPE,Type of School,4
+TV,TV,2,COD_SPRO,Code Saber Pro,12411
+COMPUTER,Computer,2,UNIVERSITY,University,134
+WASHING_MCH,Washing machine,2,ACADEMIC_PROGRAM,Academic Program,23
+MIC_OVEN,Microwave oven,2,COD_S11,Code Saber 11,12411
+CAR,Car,2,,,
