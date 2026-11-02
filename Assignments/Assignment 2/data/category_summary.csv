@@ -1,0 +1,4 @@
+Category,items_sold,sales,profit,avg_price,median_price,min_price,max_price,share_of_sales_%,profit_margin_%
+Bikes,15205,28318144.65,11505796.5,1862.42,2071.42,539.99,3578.27,96.46,40.63
+Accessories,36092,700759.96,438674.57,19.42,9.99,2.29,159.0,2.39,62.6
+Clothing,9101,339772.61,136412.58,37.33,49.99,8.99,69.99,1.16,40.15
